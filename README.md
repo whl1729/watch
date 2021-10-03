@@ -8,7 +8,7 @@
 
 ## 纪录片
 
-- [ ] 大先生杨振宁
+- [ ] [大先生杨振宁](documentary/da_xian_sheng_yang_zhen_ning.md)
 - [ ] 西南联大
 - [ ] 透视美国
 - [ ] PBS 美国经历：长津湖战役
@@ -16,6 +16,10 @@
 ## 讲座
 
 - [ ] AI青年说
+
+## 电视
+
+- [ ] [觉醒年代](tv/jue_xing_nian_dai.md)
 
 ## 课程
 
