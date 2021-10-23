@@ -8,6 +8,9 @@
 
 ## 纪录片
 
+- [ ] 功勋
+- [ ] 中国扶贫在路上
+- [ ] 无穷之路
 - [ ] [大先生杨振宁](documentary/da_xian_sheng_yang_zhen_ning.md)
 - [ ] 西南联大
 - [ ] 透视美国
