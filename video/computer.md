@@ -2,8 +2,8 @@
 
 ## 课程（Course）
 
-- [ ] [《机器学习》（吴恩达）][m1]
-- [ ] [GAMES101: 现代计算机图形学入门][m2]
+- [《机器学习》（吴恩达）][m1]
+- [GAMES101: 现代计算机图形学入门][m2]
 
   [m1]: https://study.163.com/course/introduction/1210076550.htm
   [m2]: https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
@@ -15,7 +15,6 @@
 
   [l1]: https://www.bilibili.com/video/BV11t411L7n1
   [l2]: https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY
-
 
 ## 技术大会（Technology Meeting）
 
