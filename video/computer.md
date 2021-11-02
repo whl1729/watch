@@ -4,9 +4,11 @@
 
 - [《机器学习》（吴恩达）][m1]
 - [GAMES101: 现代计算机图形学入门][m2]
+- [跟李沐学AI][m3]
 
   [m1]: https://study.163.com/course/introduction/1210076550.htm
   [m2]: https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+  [m3]: https://space.bilibili.com/1567748478
 
 ## 讲座（Lecture）
 
