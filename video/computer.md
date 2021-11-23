@@ -10,6 +10,11 @@
   [m2]: https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
   [m3]: https://space.bilibili.com/1567748478
 
+## 社区 （Community）
+
+- B站账号「微软开源学习社区」直播间
+- B栈账号「微软中国视频中心」直播间
+
 ## 讲座（Lecture）
 
 - [姚期智的计算机笔记][l1] (todo)
