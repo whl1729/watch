@@ -1,5 +1,11 @@
 # 视频资源：JavaScript
 
+## Code Style
+
+- [Feross Aboukhadijeh: Write Perfect Code With Standard And ESLint - JSConf.Asia 2018][c1]
+
+  [c1]: https://www.youtube.com/watch?v=kuHfMw8j4xk
+
 ## JavaScript Modules
 
 - [Manually Bundling an Application][m1]
