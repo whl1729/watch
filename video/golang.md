@@ -1,5 +1,9 @@
 # 视频资源：Golang
 
+## Go Talks
+
+- [Concurrency is not parallelism](https://go.dev/blog/waza-talk)
+
 ## Go Day 2021 on Google Open Source LIve
 
 - [Using generics in Go](https://golangnews.com/stories/4652-video-using-generics-in-go)
