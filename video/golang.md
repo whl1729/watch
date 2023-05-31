@@ -1,5 +1,9 @@
 # 视频资源：Golang
 
+## The Go Programming Language
+
+- [Gopherfest 2015 | Go Proverbs with Rob Pike](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+
 ## Go Day 2021 on Google Open Source LIve
 
 - [Using generics in Go](https://golangnews.com/stories/4652-video-using-generics-in-go)
