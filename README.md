@@ -18,6 +18,12 @@
 - [《中西方文化差异的渊源（王德峰）》课程笔记][4]
 - [《中国古代命理学要义（王德峰）》课程笔记][5]
 
+## 电影
+
+### 动画
+
+- [《长安三万里》观后感][7]
+
 ## 电视
 
 - [《觉醒年代》观后感][6]
@@ -28,3 +34,4 @@
   [4]: ./lecture/philosophy/wangdefeng/origin_of_differences_between_cn_and_western.md
   [5]: //lecture/philosophy/wangdefeng/zhongguo_gudai_minglixue.md
   [6]: ./tv/jue_xing_nian_dai.md
+  [7]: ./movie/cartoon/changan_sanwanli.md
