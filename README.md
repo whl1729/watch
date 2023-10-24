@@ -6,6 +6,10 @@
 
 - [《大先生杨振宁》][1]
 
+## 访谈
+
+- [对话钱理群：「孔乙己」如何面对大变革时代？][8]
+
 ## 课程
 
 ### 计算机
@@ -35,3 +39,4 @@
   [5]: //lecture/philosophy/wangdefeng/zhongguo_gudai_minglixue.md
   [6]: ./tv/jue_xing_nian_dai.md
   [7]: ./movie/cartoon/changan_sanwanli.md
+  [8]: ./interview/how_kongyiji_confront_an_era_of_great_change.md
