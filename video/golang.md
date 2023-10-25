@@ -1,8 +1,9 @@
 # 视频资源：Golang
 
-## The Go Programming Language
+## Go Talks
 
 - [Gopherfest 2015 | Go Proverbs with Rob Pike](https://www.youtube.com/watch?v=PAAkCSZUG1c)
+- [Concurrency is not parallelism](https://go.dev/blog/waza-talk)
 
 ## Go Day 2021 on Google Open Source LIve
 
